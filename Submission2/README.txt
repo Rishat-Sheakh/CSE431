@@ -8,7 +8,7 @@ Paper title:
 Applicant Screening System Using NLP
 
 Link to the paper:
-https://ieeexplore.ieee.org/document/10099953/figures#figures
+https://ieeexplore.ieee.org/document/10099953
 
 Group Number:
 40
